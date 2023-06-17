@@ -1,1 +1,2 @@
-print("Boa estudar")
+frase="boa estudar";
+print(frase);
