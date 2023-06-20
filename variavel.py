@@ -1,9 +1,8 @@
-#nome = "Flaviane"
-#print(nome)
+s="banana";
+ss="banana";
 
+print (s,id(s));
+print(ss);
+s.replace("b","z");
 
-# 77nome = "Flaviane"
-
-# mai$ = "Main"
-
-class nome: "Python"
+print
