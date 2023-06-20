@@ -5,4 +5,4 @@ print (s,id(s));
 print(ss);
 s.replace("b","z");
 
-print
+print(s);
