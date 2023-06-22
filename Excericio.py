@@ -13,6 +13,6 @@ print( nome + idade )
 Natural = "Pelotas RS "
 Mora = " Brusque Sc "
 
-print(f"Eu nasceu a natural e muda é mora ")
+print("Eu nasceu a natural e muda é mora ")
 print( Natural + Mora );
 
