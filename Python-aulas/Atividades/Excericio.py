@@ -1,8 +1,8 @@
 
 #EXCERICIO
 # 1 
-nome = "Flaviane ";
-idade = "34";
+nome  = 'Flaviane ';
+idade = '34';
 print()
 
 print(f"Olá, meu nome é {nome} e eu tenho {idade} anos.\n") ;
