@@ -18,7 +18,11 @@ print(x == y); #false
 print()
 
 #Maior ou Igual a
-print(x <= y); #true
+print(x >= y); #false
+print()
+
+# Menor ou Igual 
+print(x <= y) #true
 print()
 
 #Diferente de
