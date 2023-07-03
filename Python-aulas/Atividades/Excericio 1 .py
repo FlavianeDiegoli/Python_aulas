@@ -72,4 +72,3 @@ elementoRemovido = aluno.pop("cidade");
 print(elementoRemovido);
 print();
 print("Dicionário atualizado:",aluno);
-
