@@ -17,8 +17,7 @@ elif usuario == usuarioCorreto and senha == senhaCorreto:
 else:
   print("O usuario ou  senha estão incorreto ");
   
- 
- #verificação de multiplas condiçoes  com "and" oi "or"
+   #verificação de multiplas condiçoes  com "and" oi "or"
  
 numero = 10;
 
@@ -27,3 +26,4 @@ if(numero > 0 and numero < 5 ) or (numero > 10 and numero < 15):
 else:
   print("O número não atende aos criterios ");
           
+ 
