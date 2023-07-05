@@ -1,9 +1,10 @@
-frutas =['maça','banana',' laranja','abacaxi','melancia'];
+frutas =["maça","banana","laranja","abacaxi","melancia"];
 print(frutas);
 print();
 
 #Adicione a fruta
-frutas.append('uva');
+frutas.append("uva");
+print(frutas);
 
 #emova a fruta
 frutaRemovida = frutas.remove("banana");
@@ -13,7 +14,9 @@ print(frutas);
 print(frutaRemovida);
 
 #uma variável chamada
-fruta_selecionada = {
+fruta_selecionada = frutas[1] 
+{
+  
   'maçã'      : 3,
   'banana'    : 6,
   'laranja'   : 8,
@@ -26,7 +29,7 @@ print("Valores", fruta_selecionada.values());
 print(fruta_selecionada.items());
 
 #tupla chamada
-tuplaCores = ['vermelho', 'azul', 'verde', 'amarelo' , 'roxo'];
+tuplaCores = ["vermelho", "azul", "verde", "amarelo" , "roxo"];
 print(tuplaCores);
 print();
 
@@ -50,7 +53,6 @@ print(frutas);
 
 aluno = {
      'nome'      : 'Flaviane',
-     'sobrenome' : 'Diegoli ',
      'anos'      : 34  ,
      'cidade'    :'Brusque SC'
 }
