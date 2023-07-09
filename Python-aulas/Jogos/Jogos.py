@@ -1,4 +1,7 @@
 # Este é o jogo adivinhe o número.
+print('********************************')
+print('Bem vindo ao jogo de adivinhação')
+print('********************************')
 import random
 tentativas = 0
 print("Olá! Qual é o seu nome?")
