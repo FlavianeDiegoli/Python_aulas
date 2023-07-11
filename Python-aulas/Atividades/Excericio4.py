@@ -2,20 +2,18 @@ print('********************************')
 print('Bem Vinda Estrutura de repetição')
 print('********************************')
 # 1 - 
-numero = 1;
-
+numero = 1
 while numero <= 10:
-  print(numero);
-  numero += 1;
+  print(numero)
+  numero += 1
 
 # 2 - 
 for numero in range(1, 11):
-  print(numero);
+  print(numero)
 
 # 3 - 
-numero = 1;
-soma = 0;
-
+numero = 1
+soma = 0
 while numero <= 100:
     soma += numero
     numero += 1
