@@ -12,8 +12,8 @@ class Conta :
         if valor <= self.saldo:
           self.saldo -= valor;
           
-        else
-        print ("Saldo insufliciente");  
+        else:
+          print ("Saldo insufliciente");  
       
         
     def exibir_informacoes(self):
