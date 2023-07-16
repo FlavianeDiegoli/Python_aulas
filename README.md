@@ -2,6 +2,11 @@
 <h1 align="center">Transforme-se PcD | Módulo Python</h1>
 </p>
 
+ # Python_aulas
+ <p>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ </p>
+
 # Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
 Bem-vindo ao repositório de programação em Python! Este repositório foi criado para fornecer um guia abrangente para aprender a linguagem de programação Python. Aqui você encontrará materiais de estudo, exemplos de código e recursos úteis para aprimorar suas habilidades em Python.
@@ -48,5 +53,3 @@ Além dos materiais contidos neste repositório, aqui estão alguns recursos ext
  
  
  
- # Python_aulas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
