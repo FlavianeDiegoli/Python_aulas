@@ -3,9 +3,9 @@
 </p>
 
  # Python_aulas
- <p>
+ 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- </p>
+
 
 # Projeto realizado pelo Programa Transforme-se | Serasa Experian e Wise Hands!
 
