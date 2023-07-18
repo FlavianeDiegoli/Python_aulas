@@ -1,4 +1,3 @@
- 
 class Conta:
   #Criar um método construtor
   def __init__(self, numero, titular, saldo = 0):
@@ -13,21 +12,15 @@ class Conta:
     if valor <= self.saldo:
       self.saldo -= valor;
     else:
-      print("Saldo insuficiente!");
+      self.exibir_retorno()
+      
+  def exibir_retorno(self):
+    print(f"Saldo insuficiente, você possui {self.saldo} disponível para saque");
+  
   
   def exibir_informacoes(self):
     print(f"Conta: {self.numero}");
     print(f"Titular: {self.titular}");
-    print(f"Saldo antes da conversão para real: {self.saldo:,.2f}")
     valorEmReal = f"R$ {self.saldo:_.2f}"
     valorEmReal = valorEmReal.replace('.', ',').replace('_', '.');
     print(f"Saldo: {valorEmReal}");
-    
-#Criação de uma conta e realização de operações
-
-conta = Conta(123, "Flaviane");
-conta.depositar(1000000)
-conta.exibir_informacoes();
-         
-        
-    
